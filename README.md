@@ -20,5 +20,5 @@
 - He/Him
 
 ### ⚡ Fun Fact
-- I thrive on challenges—whether it’s coding, tech, or problem-solving 🏆
-- Always looking for ways to push beyond limits 🚀
+- There is no fun fact about me 🏆
+
