@@ -1,36 +1,31 @@
-# 👋 Hey there! I'm Muhammad Abbas  
-💻 AI Developer | Automation Enthusiast | Creative Coder
+# 👋 Hey, I'm Abbas 
+💻 Full Stack Web Developer | MERN Stack Expert | UI/UX-Driven Coder
 
-## 👀 Interests  
-- Building custom AI systems (Jarvis-like assistants) 🤖  
-- Developing LLMs with memory, reasoning, and self-learning 🧠  
-- Python-based automation & voice-controlled tools 🗣️🖥️  
-- Creating smart user interfaces (PyQt5, Selenium, OCR, etc.) 🎨  
-- Self-improvement, efficiency, and pushing boundaries 💪
+## 👀 What I Love Building  
+- High-performance **web apps** with modern stacks (MERN, Next.js, Tailwind) ⚡  
+- **Admin dashboards**, **eCommerce platforms**, and **dynamic CMS systems** 🛒📊  
+- Clean, responsive **UI/UX** with a focus on speed and usability 🎨  
+- Backend systems with **MongoDB**, **REST APIs**, and secure user auth 🔐
 
 ## 🚀 Current Projects  
-- **Beast GPT** – My own LLM with self-training, memory (ChromaDB), and dynamic knowledge updates 🧬 
-- **AI Assistance** 
-- Exploring vector databases, synthetic Q&A generation, and AI feedback loops for smarter agents 🔁
+- **Custom Blog Platform** – Built with Next.js + MongoDB, supports multi-category posts & admin panel  
+- **eCommerce Store** – Full-featured store with product filters, cart, and Stripe integration  
+- **Reusable Admin Template** – Tailwind + React-based UI for rapid dashboard development  
 
 ## 🌱 Currently Learning  
-- NLP, Machine Learning & Deep Learning with Python 📚  
-- Building neural networks and self-improving models from scratch 🧠  
-- Reinforcement Learning (RLAIF) & synthetic data generation techniques 🧪  
-- Scaling AI projects with performance optimization & automation tools ⚙️
+- Advanced **Next.js** features (App Router, SSR, ISR)  
+- **Database optimization** and backend scaling techniques  
+- Building **full-stack SaaS products** with authentication, payments, and dashboards  
+- **Web security best practices** (JWT, role-based access control, form protection)
 
-## 💞️ Open to Collaborations On  
-- AI assistants, automation tools, and experimental LLMs 🤖  
-- Projects involving voice interaction, web control, or self-learning systems 🧩  
-- Anything ambitious, creative, and technically challenging 🚀
+## 💞️ Open to Work/Collabs On  
+- Web app development (Next.js, React, Node.js)  
+- Custom dashboards or CMS platforms  
+- Full-stack projects with a focus on speed, UI, and functionality
 
-## 📫 Reach Me At  
-- 📩 Email: **notabbasmodesi@gmail.com**  
-- 🌐 GitHub: [AbbasMoqdes](https://github.com/AbbasMoqdes)
-
-## 😄 Pronouns  
-- He/Him
+## 📫 Let’s Connect  
+- 📧 Email: **notabbasmodesi@gmail.com**  
+- 🧑‍💻 GitHub: [AbbasMoqdes](https://github.com/AbbasMoqdes)
 
 ## ⚡ Fun Fact  
-- There is no fun fact about me 🏆
-
+- I love turning ideas into clean, functional, production-ready web apps.
