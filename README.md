@@ -28,4 +28,4 @@
 - 🧑‍💻 GitHub: [AbbasMoqdes](https://github.com/AbbasMoqdes)
 
 ## ⚡ Fun Fact  
-- I love turning ideas into clean, functional, production-ready web apps.
+- There is no fun fact about me, I'm serious.
