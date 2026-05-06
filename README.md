@@ -27,6 +27,3 @@
 ## 📫 Let’s Connect  
 - 📧 Email: **notabbasmodesi@gmail.com**  
 - 🧑‍💻 GitHub: [AbbasMoqdes](https://github.com/AbbasMoqdes)
-
-## ⚡ Fun Fact  
-- There is no fun fact about me, I'm serious.
