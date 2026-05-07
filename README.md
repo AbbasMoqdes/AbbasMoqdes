@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Abbas 
 💻 Full Stack Web Developer | MERN Stack | Backend Specialist
 
-## 👀 What I Love Building  
+## 👀 Interests
 - High-performance **web apps** with modern stacks (MERN, Next.js, Tailwind) ⚡  
 - **Admin dashboards**, **eCommerce platforms**......
 - Backend systems with **MongoDB**, **REST APIs**, and secure user auth 🔐
